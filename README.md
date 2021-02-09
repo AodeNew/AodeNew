@@ -21,8 +21,5 @@ https://carbon.now.sh/ -->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ---
-
-⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
-
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
