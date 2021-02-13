@@ -1,12 +1,15 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AodeNew=true&show_icons=true&hide=prs&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AodeNew&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
-### About Me 👋
+### 欢迎你的到来！ 👋
 
-<img align='right' src="https://profile-counter.glitch.me/jayus0821/count.svg" width="100">
+<img align='right' src="https://profile-counter.glitch.me/AodeNew/count.svg" width="100">
 
-- Name : david
+- Name : david  
 - 网络运维一枚
-- web安全小白一枚
+- 网络安全小白一枚
+
+
+
 
 
 
