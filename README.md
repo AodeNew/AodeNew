@@ -4,7 +4,7 @@
 </div>
 <img align='right' src="https://profile-counter.glitch.me/AodeNew/count.svg" width="100">
 
--🚀 Name : david  
+
 -❤️ 学习知识  分享知识！
 
 
