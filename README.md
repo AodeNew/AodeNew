@@ -15,7 +15,7 @@
 
 ### 🔱 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AodeNew&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NS-Sp4ce&hide=css,html&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AodeNew&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=AodeNew&hide=css,html&layout=compact)
 
-Visitors: <img align='right' src="https://profile-counter.glitch.me/NS-Sp4ce/count.svg" width="200">
+Visitors: <img align='right' src="https://profile-counter.glitch.me/AodeNew/count.svg" width="200">
 
