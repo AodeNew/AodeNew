@@ -6,7 +6,7 @@
   <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
 </p>
 
-- ✏️ Read my blog on https://0x20h.com
+- ✏️ Read my blog on https://www.david.com
 - [![GitHub RcoIl](https://img.shields.io/github/followers/NS-Sp4ce?label=follower%20github&style=flat-square)](https://github.com/NS-Sp4ce)
 
 # Github stats
