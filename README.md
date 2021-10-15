@@ -3,9 +3,8 @@
 **路漫漫其修远兮吾将上下而求索！
 
 <p align="center">
-  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
+  <img align="center" src="https://github.com/AodeNew/aodenew.github.io/blob/master/image/developer.gif"/>
 </p>
-
 - ✏️ Read my blog on https://www.david.com
 - [![GitHub RcoIl](https://img.shields.io/github/followers/AodeNew?label=follower%20github&style=flat-square)](https://github.com/AodeNew)
 
