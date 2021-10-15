@@ -5,9 +5,6 @@
 <p align="center">
   <img align="center" src="https://github.com/AodeNew/aodenew.github.io/blob/master/image/developer.gif"/>
 </p>
-- ✏️ Read my blog on https://www.david.com
-- [![GitHub RcoIl](https://img.shields.io/github/followers/AodeNew?label=follower%20github&style=flat-square)](https://github.com/AodeNew)
-
 # Github stats
 
 ![NS-Sp4ce's github stats](https://github-readme-stats.vercel.app/api?username=AodeNew&show_icons=true&theme=buefy)
