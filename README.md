@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github.com/AodeNew/aodenew.github.io/blob/master/image/developer.gif"/>
+  <img align="center" src="https://github.com/AodeNew/aodenew.github.io/image/developer.gif"/>
 </p>
 # Github stats
 
